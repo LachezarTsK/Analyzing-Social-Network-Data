@@ -1,4 +1,4 @@
-# Capstone-Analyzing-Social-Network-Data-by-University-of-California-San-Diego
+Capstone: Analyzing (Social) Network Data by University of California, San Diego
 Week One Assignment
 
 Converts social network data into a directed graph.
