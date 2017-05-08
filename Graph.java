@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 
 /**
- * @author UCSD MOOC The interface for this assignment is provided by UCSD MOOC.
+ * @author UCSD MOOC. The interface for this assignment is provided by UCSD MOOC.
  */
 
 public interface Graph {
