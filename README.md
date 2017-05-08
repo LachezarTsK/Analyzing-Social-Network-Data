@@ -1,5 +1,6 @@
 Capstone: Analyzing (Social) Network Data by University of California, San Diego
-- Week One Assignment
+- Week One Assignment: Class GraphLoader and Interface Graph are provided by UCSD MOOC team.
+  The rest of the code is developed according to the vision of each individual student.
 
 Converts social network data into a directed graph.
 Extracts the following subgraphs from the whole graph:
