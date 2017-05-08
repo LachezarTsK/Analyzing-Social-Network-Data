@@ -9,7 +9,7 @@ import java.util.Set;
 /**
  * @author UCSD MOOC. Utility class to add vertices and edges to a graph.
  * 
- * Class GraphLoader for this assignment is provided by UCSD MOOC.
+ * Class GraphLoader for this assignment is provided by UCSD MOOC team.
  */
 
 public class GraphLoader {
